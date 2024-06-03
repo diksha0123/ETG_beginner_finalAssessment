@@ -1,0 +1,1 @@
+This is a program created using the programming language called Solidity. Solidity is used to create smart contracts on the Etherium Blockchain. This particular contract provide functionalities like miniting, burining and balance tracking.
